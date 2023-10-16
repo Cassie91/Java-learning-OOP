@@ -2,10 +2,7 @@
 
 1. All .java files should respect PascalCase convention, example:
 
-"MyClass.java" and "HelloWorld.java" are following PascalCase convention.
-"myClass.java, my_class.java, Myclass.java, etc.." is not following PascalCase convention.
-
-That's a really good practice to mantain this rule in our projects.
+This format indicates the first word starting with uppercase, then the following words having an initial uppercase letter too. Ex: Calculator, MyColor, YourName, etc...
 
 - Obs: All class names follow the same convention, please pay attention for that!
 
@@ -19,3 +16,7 @@ If my file are called "MyClass.java", my first class should be:
 }`
 
 following conventions.
+
+3. Variables should use camelCase convention.
+
+This format indicates the first word starting with lowercase, then the following words having an initial uppercase letter. Ex: calculator, myColor, yourName, etc...
