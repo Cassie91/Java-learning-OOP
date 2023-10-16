@@ -1,3 +1,4 @@
+package edu.alessandra.bSecondClass;
 public class MyClass {
     public static void main(String[] args) {
         

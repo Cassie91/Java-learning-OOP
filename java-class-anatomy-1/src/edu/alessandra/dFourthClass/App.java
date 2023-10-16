@@ -1,3 +1,4 @@
+package edu.alessandra.dFourthClass;
 public class App {
     public static void main(String[] args) throws Exception {
         int finalGrade = 7;
