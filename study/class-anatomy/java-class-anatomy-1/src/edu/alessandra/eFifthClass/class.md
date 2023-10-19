@@ -1,1 +1,0 @@
-## This class is just about directory management in packages format.
